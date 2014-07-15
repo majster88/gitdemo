@@ -5,6 +5,4 @@ package com.dybas.firstintellijapp.app;
  */
 public class NewClass {
 
-
-
 }
