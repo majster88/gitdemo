@@ -18,12 +18,6 @@ public class MainActivity extends ActionBarActivity {
 
     private void initClass() {
 
-        someVeryImportantMethod();
-    }
-
-    private void someVeryImportantMethod() {
-
-
     }
 
     @Override
